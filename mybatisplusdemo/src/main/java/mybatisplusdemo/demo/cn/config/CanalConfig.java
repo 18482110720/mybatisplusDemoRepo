@@ -11,5 +11,6 @@ public class CanalConfig {
     public void initMethod(){
        System.out.println("---------------启动时调用了该方法");
        System.out.println("---------------启动时调用了该方法");
+        System.out.println("---------------启动时调用了该方法");
     }
 }

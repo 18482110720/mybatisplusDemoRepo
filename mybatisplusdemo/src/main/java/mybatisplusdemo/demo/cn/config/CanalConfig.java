@@ -12,6 +12,6 @@ public class CanalConfig {
        System.out.println("---------------启动时调用了该方法");
        System.out.println("---------------启动时调用了该方法");
         System.out.println("---------------启动时调用了该方法");
-        System.out.println("---------------启动时调用了该方法aaaa");
+        System.out.println("---------------启动时调用了该方法master22");
     }
 }
